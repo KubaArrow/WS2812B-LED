@@ -1,0 +1,61 @@
+
+body
+{
+    background-color: #040c2c;
+    color: #fefefe;
+    font-family: 'Titillium Web', sans-serif;
+    width: 100%;
+    font-weight: 400;
+}
+
+.text-center
+{
+text-align: center;
+}
+
+header
+{
+
+    padding: 20px;
+    font-size: 3rem;
+}
+
+.butt
+{ 
+    cursor: pointer;
+  
+ 
+   transition: ease 1s;
+   font-size: 6rem;
+    
+}
+.butt:hover
+{
+   
+    color: rgb(119, 194, 255);
+}
+.off
+{
+    font-size: 6rem;
+    
+}
+.off:hover
+{
+   color:red;
+}
+.save
+{
+    color: white;
+    background-color: rgba(0,0,0,0);
+    border:none;
+}
+.save:hover
+{
+    color: rgb(53, 114, 61);
+}
+.col_p
+{
+border:none;
+border-radius: 10%;
+height: 5rem;
+}
